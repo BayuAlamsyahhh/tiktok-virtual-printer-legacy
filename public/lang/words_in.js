@@ -12,18 +12,17 @@ var WORDS = [
 	"hewan|tupai",
 	"hewan|bunglon",
 	"hewan|jerapah",
-                  "hewan|kunang-kunang",
+        "hewan|kunang-kunang",
 	"hewan|kuda",
 	"hewan|gurita",
 	"hewan|merak",
 	"hewan|udang",
-                  "hewan|ular",
-                  "hewan|semut",
+        "hewan|ular",
+        "hewan|semut",
 	"buah|semangka",
 	"buah|alpukat",
-                  "buah|melon",
-	"olahraga|renang"
-                  "buah|kelapa",
+        "buah|melon",
+	"buah|kelapa",
 	"buah|jambu",
 	"buah|nanas",
 	"buah|stroberi",
@@ -37,7 +36,8 @@ var WORDS = [
 	"olahraga|maraton",
 	"olahraga|gulat",
 	"olahraga|berselancar"
-                  "komen aja iya |iya",
-                  "BESOK HARI|minggu",
+	"olahraga|renang"
+        "komen aja iya |iya",
+        "BESOK HARI|senin",
 
 ]

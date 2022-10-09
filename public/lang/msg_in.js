@@ -1,3 +1,3 @@
 var MSG_GIFT = "terimaakasyy kepaadaa |username| yank uhdaa kirim gift";
-var MSG_WINNER = "selaamaaaaat kepaadaaaaa |username| kaarenaa berhasil menebaak jaawaabaan haa haa haaa";
-var MSG_TEST = "haloooo maaaas bayuuuuu";
+var MSG_WINNER = "selaamaat kepaadaa |username| kaarenaa berhasyl menebaak jaawaabaan haa haa haaa";
+var MSG_TEST = "TEST SOOWAARAA";
